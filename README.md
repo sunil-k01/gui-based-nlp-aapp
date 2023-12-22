@@ -1,7 +1,7 @@
 # Sentiment Analysis NLP Application
 
 ![Project Image](resources\sentiment analysis.jpg) <!-- Add a screenshot or an image showcasing your project -->
-![Project Image](./resources/sentiment analysis.jpg)
+![Project Image](.\resources\sentiment analysis.jpg)
 
 
 ## Overview
